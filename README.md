@@ -22,6 +22,18 @@ This project was built as part of a CIS / Python Programming course and demonstr
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
+### Main Interface
+![Main Interface](PokemonCRUDexample1.png)
+
+### Pokémon Entry Example
+![Pokémon Entry Example](baseclearexamplewithtwopokemon.png)
+
+### Pokémon List Table
+![Pokémon List Table](treeviewofpokemon.png)
+
+
 The UI includes fields such as:
 
 - **Pokemon Name — Bulbasaur**
