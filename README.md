@@ -20,7 +20,6 @@ This project was built as part of a CIS / Python Programming course and demonstr
 - SQLite database backend
 - Tkinter GUI frontend
 
-## 📸 Screenshots
 
 ## 📸 Screenshots
 
